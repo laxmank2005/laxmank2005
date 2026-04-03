@@ -1,10 +1,10 @@
 # 💫 About Me:
-<br>3rd-year B-Tech student focused on Web Development  
-<br>Open to collaborating on web and full stack projects  
-<br>Building strong problem-solving skills and scalable applications  
-<br>Currently exploring AI and DevOps  
-<br>Ask me about HTML, CSS, JavaScript, React, Node.js, and Express  
-<br>I enjoy transforming ideas into clean, functional web experiences  
+3rd-year B-Tech student focused on Web Development  
+Open to collaborating on web and full stack projects  
+Building strong problem-solving skills and scalable applications  
+Currently exploring AI and DevOps  
+Ask me about HTML, CSS, JavaScript, React, Node.js, and Express  
+I enjoy transforming ideas into clean, functional web experiences  
 
 ---
 
