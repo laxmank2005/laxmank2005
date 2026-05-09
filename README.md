@@ -40,5 +40,5 @@ I enjoy transforming ideas into clean, functional web experiences
 
 ## 📈 Contribution Graph
 
-[![Laxman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=laxmank2005&theme=tokyo-night)](https://github.com/laxmank2005)
+![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/laxmank2005/laxmank2005/output/github-contribution-grid-snake.svg)
 
