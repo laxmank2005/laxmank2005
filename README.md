@@ -38,10 +38,7 @@ I enjoy transforming ideas into clean, functional web experiences
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Contribution Graph
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=laxmank2005&show_icons=true&theme=tokyonight)
+[![Laxman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=laxmank2005&theme=tokyo-night)](https://github.com/laxmank2005)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=laxmank2005&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=laxmank2005&theme=tokyonight)
