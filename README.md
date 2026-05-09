@@ -38,9 +38,7 @@ I enjoy transforming ideas into clean, functional web experiences
 
 ---
 
-## 📅 Contribution Calendar
+## 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/409ba5/laxmank2005" alt="GitHub Contribution Chart" />
-</p>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=laxmank2005&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true)](https://github.com/laxmank2005)
 
