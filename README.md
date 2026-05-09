@@ -40,5 +40,6 @@ I enjoy transforming ideas into clean, functional web experiences
 
 ## 📈 Contribution Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=laxmank2005&theme=github-dark)
+
+![](https://github-contributor-stats.vercel.app/api?username=laxmank2005&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
 
