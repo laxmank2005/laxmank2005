@@ -37,3 +37,10 @@ I enjoy transforming ideas into clean, functional web experiences
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
 
 ---
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=laxmank2005&show_icons=true&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=laxmank2005&theme=tokyonight&hide_border=true)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=laxmank2005&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true)](https://github.com/laxmank2005)
