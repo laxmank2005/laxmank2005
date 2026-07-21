@@ -3,7 +3,7 @@
 Open to collaborating on web and full stack projects  
 Building strong problem-solving skills and scalable applications  
 Currently exploring AI and DevOps  
-Ask me about HTML, CSS, JavaScript, React, Node.js, and Express  
+React , JavaScript, React, Node.js, and Express  
 I enjoy transforming ideas into clean, functional web experiences  
 
 ---
