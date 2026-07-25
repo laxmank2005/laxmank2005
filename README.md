@@ -35,10 +35,3 @@ I enjoy transforming ideas into clean, functional web experiences
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
-
----
-## 📅 Contribution Calendar
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/409ba5/laxmank2005" alt="GitHub Contribution Chart" />
-</p>
