@@ -1,5 +1,5 @@
 # 💫 About Me:
-3rd-year B-Tech student focused on Web Development  
+Final-year B-Tech student focused on Full Stack Development  
 Open to collaborating on web and full stack projects  
 Building strong problem-solving skills and scalable applications  
 Currently exploring AI and DevOps  
